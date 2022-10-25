@@ -1,0 +1,107 @@
+body {
+    background: #F5F5F5;
+}
+.logo {
+    position: absolute;
+    top: 180px;
+    left: 790px;
+}
+.time {
+    font-family: 'Space Mono';
+    font-style: normal;
+    position: absolute; 
+    font-size: 18px;
+    color: black;
+    top: 260px;
+    left: 810px;
+}
+.photo {
+    position: absolute;
+    top: 380px;
+    left: 520px;
+
+}
+.numbrs {
+    position: absolute;
+    font-family: 'Space Mono';
+    font-style: normal;
+    font-size: 18px;
+    top: 660px;
+    left: 675px;
+}
+.arrow {
+    position: absolute;
+    top: 682px;
+    left: 750px;
+}
+.text {
+    position: absolute;
+    width: 350px;
+    height: 230px;
+    font-family: 'Space Mono';
+    font-style: normal;
+    font-size: 18px;
+    top: 430px;
+    left: 940px;
+}
+.data2 {
+    position: absolute;
+    font-family: 'Space Mono';
+    font-style: normal;
+    font-size: 18px;
+    top: 345px;
+    left: 940px;
+}
+.page {
+    position: absolute;
+    font-family: 'Space Mono';
+    font-style: normal;
+    font-size: 22px;
+    top: 365px;
+    left: 940px;
+
+}
+.archive {
+    position: absolute;
+    font-family: 'Space Mono';
+    font-style: normal;
+    font-size: 20px;
+    width: 86px;
+    height: 22px;
+    background: red;
+    top: 680px;
+    left: 940px;
+}
+.archive2 {
+    position: absolute;
+    top: -25px;
+    color: #fff;
+}
+.menu  {
+    position: absolute;
+    font-family: 'Space Mono';
+    font-style: normal;
+    font-size: 18px;
+    top: 820px;
+    left: 430px;
+   
+}
+.menu a {
+    text-decoration: none;
+    color: #000;
+}
+.menu ul li {
+    display: inline;
+    margin: 0 10px;
+}
+  
+
+    
+    
+
+
+    
+    
+
+
+
